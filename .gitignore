@@ -1,0 +1,32 @@
+# 依赖
+node_modules/
+package-lock.json
+
+# 密钥 / 本地配置（页面的 AI 智能体配置存在浏览器 localStorage，不要导出成文件提交）
+.env
+.env.*
+*.local
+config.local.*
+secrets.*
+*.key
+*.pem
+*.p12
+*.keystore
+
+# 备份数据（含个人课程/手机号信息）
+*.backup.json
+backup*.json
+任务备份*.json
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
+~$*
+*.swp
