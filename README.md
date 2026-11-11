@@ -2,7 +2,7 @@
 
 把一段杂乱的课程/会议通知文本，解析成结构化的待办清单。纯前端单文件应用，打开即用。
 
-**在线试用**：https://<你的用户名>.github.io/notice-to-todo/
+**在线试用**：https://dr1zzy12.github.io/notice-to-todo/
 
 ## 功能
 
@@ -27,7 +27,7 @@
 1. 仓库 Settings → Pages
 2. Source 选择 `Deploy from a branch`
 3. Branch 选 `main`，目录选 `/ (root)`
-4. 保存后访问 `https://<用户名>.github.io/notice-to-todo/`
+4. 保存后访问 `https://dr1zzy12.github.io/notice-to-todo/`
 
 ## 本地运行
 
